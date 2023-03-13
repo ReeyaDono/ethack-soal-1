@@ -7,7 +7,9 @@ Ethical Hacking 2023
 - Dewangga Putra Sheradhien - 1906293013
 ---
 ## Compiling
-
+```
+gcc -o chall chall.c -no-pie
+```
 ---
 ## Deployment
 - Install docker engine>=19.03.12 and docker-compose>=1.26.2.
